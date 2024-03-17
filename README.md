@@ -5,7 +5,7 @@ This project was created to examine the disaster that occurred during the voyage
 
 ## Project Objectives
 
-1. Design the System
+1. Frame the problem and Design the System
 2. Examine
     * Load the Data
     * Get Bird View from data and Analyze features
